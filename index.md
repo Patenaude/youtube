@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>  
   <head>
 <link rel="icon" href="demo_icon.gif" type="image/gif" sizes="16x16">
